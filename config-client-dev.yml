@@ -1,6 +1,0 @@
-foo: foo frist 001
-data:
-  env: zghtest
-  user:
-    username: zgh
-    password: 123456
